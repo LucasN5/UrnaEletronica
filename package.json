@@ -1,0 +1,12 @@
+{
+  "name": "urnaeletronica",
+  "version": "1.0.0",
+  "description": "Projeto de Urna Eletronica em js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasN",
+  "license": "ISC",
+  "type": "module"
+}
