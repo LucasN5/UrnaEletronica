@@ -15,3 +15,5 @@ eleitor2.votarEmBranco(0, true);
 const eleitor3 = new TituloDeEleitorFeminino("Julia", 9541581, "Praia Grande");
 
 eleitor3.votar(678);
+eleitor3.votar(0);
+eleitor3.votarEmBranco(0);

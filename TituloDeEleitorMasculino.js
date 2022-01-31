@@ -45,6 +45,7 @@ export class TituloDeEleitorMasculino {
       }
     }
 
+    
     votarEmBranco(numero, reservista){
       if(reservista == true){
         if(numero == 0){
