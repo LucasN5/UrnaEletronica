@@ -1,4 +1,4 @@
-import {TituloDeEleitorMasculino} from "./TituloDeEleitorMasculino"
+import {TituloDeEleitorMasculino} from "./TituloDeEleitorMasculino.js"
 
 export class TituloDeEleitorFeminino extends TituloDeEleitorMasculino{
     constructor(nome, rg, comprovanteResidencia){
